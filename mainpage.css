@@ -21,6 +21,10 @@ marquee h1{
   margin-left:10px;
 }
 
+.adsimg{
+  margin-top:200px;
+  }
+
 body{
   font-family: 'Montserrat', sans-serif;
   background: #0a0d1dff;
