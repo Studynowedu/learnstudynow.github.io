@@ -3,7 +3,16 @@
   margin: 0px;
 }
 
+.post{
+  margin:10px;
+  transition:0.2s ease;
+  }
 
+.post:hover{
+  margin:0px;
+  transition:0.2s ease;
+    width:100%;
+}
 
 .popularpost{
   color: white;
