@@ -431,20 +431,7 @@ padding-left: 10px;
   margin: 0px;
 }
 
-.posting{
-    margin: 10px;
-  transition: 0.4s ease;
-}
 
-.posting:hover{
-  margin:0px;
-  margin-right:0px;
-  margin-left:0px;
-  width: 100%;
-  height: auto;
-  transition: 0.4s ease;
-}
-  
 body{
   background: #0a0d1dff;
 }
