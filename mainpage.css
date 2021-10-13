@@ -8,7 +8,10 @@
 }
 
 .postimg1:hover{
-  width: 85%;
+  margin:0px;
+  margin-right:0px;
+  margin-left:0px;
+  width: 100%;
   height: auto;
   transition: 0.4s ease;
 }
